@@ -4,7 +4,7 @@
 <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
 </p>
 
-Este projeto tem em vista montar um banco de dados com todas as informações disponíveis no site [Portal BSD](https://www.portalbsd.com.br/) sobre os canais disponíveis no Brasil de forma gratuita, via FTA (free-to-air). Faz parte dos meus estudos sobre **Web scraping**. Para ver outros projetos relacionados ao assunto: [FTA-IPTV-Brasil](https://github.com/joaoguidugli/FTA-IPTV-Brasil).
+Este projeto tem em vista montar um banco de dados com todas as informações disponíveis no site [Portal BSD](https://www.portalbsd.com.br/) sobre os canais existentes no Brasil de forma gratuita, via FTA (free-to-air). Faz parte dos meus estudos sobre **Web scraping**. Para ver outros projetos relacionados ao assunto: [FTA-IPTV-Brasil](https://github.com/joaoguidugli/FTA-IPTV-Brasil).
 
 ## 📝 Licença
 
